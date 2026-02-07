@@ -22,20 +22,20 @@ const api = axios.create({
 
 
 const plantSeed = [
-  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"692c56ded5279610094c3213","seedIDs":"68824771915623f3dcc1fb09", "growthTime": 20088000},
-// 'pineapple'
+  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"692c56ded5279610094c3213","seedIDs":"673e0c942c7bfd708b352453", "growthTime": 120000},
+// 'stawberry'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1985a9faa90b3269c9ca","seedIDs":"67dc227a59b878f195998d7c", "growthTime": 19680000},
 // 'broacli'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1973a9faa90b3269c307","seedIDs":"67dc227a59b878f195998ea8" ,"growthTime": 8705000},
-// 'snowdrops'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e199751f2ac78b396fd36","seedIDs":"673e0c942c7bfd708b352489" ,"growthTime": 6720000},
-// 'watermelon'
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1973a9faa90b3269c307","seedIDs":"673e0c942c7bfd708b352471" ,"growthTime": 240000},
+// 'pears'
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e199751f2ac78b396fd36","seedIDs":"68824771915623f3dcc1fb09" ,"growthTime": 20088000},
+// 'pineapple'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e19a8a9faa90b3269d62c","seedIDs":"683dbe2ba9ec974575a4bedc" ,"growthTime": 3000000},
 // 'mint'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e19d851f2ac78b3971473","seedIDs":"665f2698534176fcd32f9a86" ,"growthTime": 1800000},
 // 'chicken'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9ec8","seedIDs":"673e0c942c7bfd708b352453" ,"growthTime": 120000},
-// 'stawberry'
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9ec8","seedIDs":"67dc227a59b878f195998ea8" ,"growthTime": 8705000},
+// 'snowdrops'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9ec1","seedIDs":"67dc227a59b878f195998f02" ,"growthTime": 2700000 },
 // 'leek'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9eba","seedIDs":"67dc227a59b878f195998db8" ,"growthTime": 1920000},
@@ -182,6 +182,7 @@ async function startFarm() {
 }
 
 startFarm().catch(err => console.error("💥 Fatal error:", err.message));
+
 
 
 
