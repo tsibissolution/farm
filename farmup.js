@@ -46,6 +46,8 @@ const plantSeed = [
 // 'onion'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9ecf","seedIDs":"673e0c942c7bfd708b352405" ,"growthTime": 360000},
 // 'corn'
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69500713cc638d10d00cc06b","seedIDs":"694412e2506616961d8cc890" ,"growthTime": 18000000},
+// 'DEER'
 ];
 
 
@@ -182,6 +184,7 @@ async function startFarm() {
 }
 
 startFarm().catch(err => console.error("💥 Fatal error:", err.message));
+
 
 
 
