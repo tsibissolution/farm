@@ -22,11 +22,11 @@ const api = axios.create({
 
 
 const plantSeed = [
-  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"692c56ded5279610094c3213","seedIDs":"673e0c942c7bfd708b352453", "growthTime": 120000},
-// 'stawberry'
+  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"692c56ded5279610094c3213","seedIDs":"673e0c942c7bfd708b352405", "growthTime": 360000},
+// 'corn'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1985a9faa90b3269c9ca","seedIDs":"67dc227a59b878f195998d7c", "growthTime": 19680000},
 // 'broacli'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1973a9faa90b3269c307","seedIDs":"673e0c942c7bfd708b352471" ,"growthTime": 240000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1973a9faa90b3269c307","seedIDs":"673e0c942c7bfd708b35245f" ,"growthTime": 240000},
 // 'pears'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e199751f2ac78b396fd36","seedIDs":"68824771915623f3dcc1fb09" ,"growthTime": 20088000},
 // 'pineapple'
@@ -44,8 +44,8 @@ const plantSeed = [
 // 'eggplant'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"695a17456496877925db9108","seedIDs":"67dc227a59b878f195998dd6" ,"growthTime": 900000},
 // 'onion'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9ecf","seedIDs":"673e0c942c7bfd708b352405" ,"growthTime": 360000},
-// 'corn'
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9ecf","seedIDs":"673e0c942c7bfd708b352453" ,"growthTime": 120000},
+// 'stawberry'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69500713cc638d10d00cc06b","seedIDs":"694412e2506616961d8cc890" ,"growthTime": 18000000},
 // 'DEER'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"698323a7a9faa90b320f228b","seedIDs":"67dc227a59b878f195998e7e" ,"growthTime": 480000}
@@ -185,6 +185,7 @@ async function startFarm() {
 }
 
 startFarm().catch(err => console.error("💥 Fatal error:", err.message));
+
 
 
 
