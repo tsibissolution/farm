@@ -15,8 +15,7 @@ const api = axios.create({
     "Origin": "https://static.chainers.io",
     "Referer": "https://static.chainers.io/",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-    "x-csrf":
-      '{"expiration":"2026-03-15T14:53:52.944726866Z","token":"fb24c7d6-e840-47e5-b182-7a3aa8df"}',
+    "x-request-token-id": requestToken,
   },
 });
 // 🌱 Seed array with growth times
