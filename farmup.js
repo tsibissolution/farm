@@ -26,7 +26,7 @@ const plantSeed = [
 // 'corn'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1985a9faa90b3269c9ca","seedIDs":"67dc227a59b878f195998d7c", "growthTime": 19680000},
 // 'broacli'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1973a9faa90b3269c307","seedIDs":"673e0c942c7bfd708b35245f" ,"growthTime": 240000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1973a9faa90b3269c307","seedIDs":"67dc227a59b878f195998e48" ,"growthTime":4353000},
 // 'pears'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e199751f2ac78b396fd36","seedIDs":"68824771915623f3dcc1fb09" ,"growthTime": 20088000},
 // 'pineapple'
