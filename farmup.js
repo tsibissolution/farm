@@ -22,7 +22,7 @@ const api = axios.create({
 
 
 const plantSeed = [
-  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"692c56ded5279610094c3213","seedIDs":"673e0c942c7bfd708b352405", "growthTime": 360000},
+  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"692c56ded5279610094c3213","seedIDs":"673e0c942c7bfd708b352471", "growthTime": 224000},
 // 'corn'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1985a9faa90b3269c9ca","seedIDs":"67dc227a59b878f195998d7c", "growthTime": 19680000},
 // 'broacli'
