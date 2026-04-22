@@ -24,9 +24,9 @@ const api = axios.create({
 const plantSeed = [
   {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"692c56ded5279610094c3213","seedIDs":"673e0c942c7bfd708b352471", "growthTime": 224000},
 // 'corn'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1985a9faa90b3269c9ca","seedIDs":"67dc227a59b878f195998d7c", "growthTime": 19680000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1985a9faa90b3269c9ca","seedIDs":"67dc227a59b878f195998e66", "growthTime": 28140000},
 // 'broacli'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1973a9faa90b3269c307","seedIDs":"67dc227a59b878f195998e48" ,"growthTime":4353000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1973a9faa90b3269c307","seedIDs":"673e0c942c7bfd708b352453" ,"growthTime":120000},
 // 'pears'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e199751f2ac78b396fd36","seedIDs":"68824771915623f3dcc1fb09" ,"growthTime": 20088000},
 // 'pineapple'
@@ -48,7 +48,11 @@ const plantSeed = [
 // 'stawberry'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69500713cc638d10d00cc06b","seedIDs":"694412e2506616961d8cc890" ,"growthTime": 18000000},
 // 'DEER'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"698323a7a9faa90b320f228b","seedIDs":"67dc227a59b878f195998e0c" ,"growthTime": 10860000}
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"698323a7a9faa90b320f228b","seedIDs":"67dc227a59b878f195998e0c" ,"growthTime": 10860000},
+
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69d9208541889f0f3ae3020e","seedIDs":"67dc227a59b878f195998e60" , "growthTime": 28140000},
+
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69d92697048897c817194bfa","seedIDs":"69285140f803f06b82ab22ec" , "growthTime": 13200000}
 ];
 
 
