@@ -26,7 +26,7 @@ const plantSeed = [
 // 'corn'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1985a9faa90b3269c9ca","seedIDs":"67dc227a59b878f195998e66", "growthTime": 28140000},
 // 'broacli'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1973a9faa90b3269c307","seedIDs":"67dc227a59b878f195998e30" ,"growthTime":14640000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1973a9faa90b3269c307","seedIDs":"673e0c942c7bfd708b352405" ,"growthTime":335000},
 // 'pears'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e199751f2ac78b396fd36","seedIDs":"68824771915623f3dcc1fb09" ,"growthTime": 20088000},
 // 'pineapple'
@@ -52,7 +52,9 @@ const plantSeed = [
 
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69d9208541889f0f3ae3020e","seedIDs":"67dc227a59b878f195998e60" , "growthTime": 28140000},
 
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69d92697048897c817194bfa","seedIDs":"69285140f803f06b82ab22ec" , "growthTime": 13200000}
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69d92697048897c817194bfa","seedIDs":"69285140f803f06b82ab22ec" , "growthTime": 13200000},
+
+{"userGardensID":"68c2eb6a7e204da0fe55f668","userBedsID":"69f8bae65c5dd30b7c2354cd","seedID":"673e0c942c7bfd708b352465", "growthTime": 240000}
 ];
 
 
