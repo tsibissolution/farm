@@ -38,7 +38,7 @@ const plantSeed = [
 // 'snowdrops'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9ec1","seedIDs":"67dc227a59b878f195998f02" ,"growthTime": 2700000 },
 // 'leek'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9eba","seedIDs":"67dc227a59b878f195998db8" ,"growthTime": 1920000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9eba","seedIDs":"67dc227a59b878f195998dbe" ,"growthTime": 1786000},
 // 'cauliflower'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9eb3","seedIDs":"673e0c942c7bfd708b35242f" ,"growthTime": 1020000},
 // 'eggplant'
