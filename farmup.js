@@ -55,7 +55,10 @@ const plantSeed = [
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69d92697048897c817194bfa","seedIDs":"69285140f803f06b82ab22ec" , "growthTime": 13200000},
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69f223ff71df3f192c6f28db","seedIDs":"694412e2506616961d8cc890" , "growthTime": 18000000},
   {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69ff4d3c71df3f192c8021b6","seedIDs":"67dc227a59b878f195998ddc" , "growthTime": 900000},
-  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a15cc2f6a9aeeb3da578ed7","seedIDs":"67dc227a59b878f195998d82", "growthTime": 19680000}
+  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a15cc2f6a9aeeb3da578ed7","seedIDs":"67dc227a59b878f195998d82", "growthTime": 19680000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a1dabde12dd3ee5f734dc89","seedIDs":"665f2698534176fcd32f9ab3", "growthTime": 6600000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a1dabde12dd3ee5f734dc85","seedIDs":"67dc227a59b878f195998d52", "growthTime": 13800000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a1dabde12dd3ee5f734dc81","seedIDs":"665f2698534176fcd32f9a7d", "growthTime": 1800000}
 ];
 
 
