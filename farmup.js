@@ -22,7 +22,7 @@ const api = axios.create({
 
 
 const plantSeed = [
-  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"692c56ded5279610094c3213","seedIDs":"67dc227a59b878f195998e7e", "growthTime": 447000},
+  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"692c56ded5279610094c3213","seedIDs":"67dc227a59b878f195998e84", "growthTime": 447000},
 // 'corn'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1985a9faa90b3269c9ca","seedIDs":"67dc227a59b878f195998e66", "growthTime": 28140000},
 // 'broacli'
@@ -40,7 +40,7 @@ const plantSeed = [
 // 'leek'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9eba","seedIDs":"67dc227a59b878f195998dbe" ,"growthTime": 1786000},
 // 'cauliflower'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9eb3","seedIDs":"673e0c942c7bfd708b35242f" ,"growthTime": 1020000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1be4a9faa90b326a9eb3","seedIDs":"673e0c942c7bfd708b352435" ,"growthTime": 1020000},
 // 'eggplant'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"695a17456496877925db9108","seedIDs":"67dc227a59b878f195998e4e" ,"growthTime": 4680000},
 // 'onion'
