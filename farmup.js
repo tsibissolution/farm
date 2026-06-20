@@ -48,7 +48,7 @@ const plantSeed = [
 // 'stawberry'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69500713cc638d10d00cc06b","seedIDs":"694412e2506616961d8cc890" ,"growthTime": 18000000},
 // 'DEER'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a36abbe6b22a0e2eec502bd","seedIDs":"69c548076efcfb7e277d6014","growthTime": 14400000}
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a36abbe6b22a0e2eec502bd","seedIDs":"69c548076efcfb7e277d6014","growthTime": 14400000},
 
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69d9208541889f0f3ae3020e","seedIDs":"67dc227a59b878f195998e60" , "growthTime": 28140000},
 
