@@ -42,7 +42,7 @@ const plantSeed = [
 // 'cauliflower'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a6a2f3865101b3a4db39498","seedIDs":"67dc227a59b878f195998d7c", "growthTime": 19680000},
 // 'eggplant'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a8ede665b50ac4ade227d72","seedIDs":"6801032feafb0e6b3216470c", "growthTime": 17460000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a8ede665b50ac4ade227d72","seedIDs":"673e0c942c7bfd708b352435", "growthTime": 990000},
 // 'onion'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a85ddc705cb4a640d7a276b","seedIDs":"69945ab309abeb19e22a83ff", "growthTime": 75600000},
 // 'stawberry'
