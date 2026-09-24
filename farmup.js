@@ -42,7 +42,7 @@ const plantSeed = [
 // 'cauliflower'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a6a2f3865101b3a4db39498","seedIDs":"67dc227a59b878f195998d7c", "growthTime": 19680000},
 // 'eggplant'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a8ede665b50ac4ade227d72","seedIDs":"673e0c942c7bfd708b352453", "growthTime": 117000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a8ede665b50ac4ade227d72","seedIDs":"673e0c942c7bfd708b35243b", "growthTime": 949000},
 // 'onion'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a85ddc705cb4a640d7a276b","seedIDs":"69945ab309abeb19e22a83ff", "growthTime": 75600000},
 // 'stawberry'
@@ -58,6 +58,7 @@ const plantSeed = [
   {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a6b914b2a9be10b7fea6972","seedIDs":"673e0c942c7bfd708b352465","growthTime": 240000},
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69ff4d3c71df3f192c8021b6","seedIDs":"69c548076efcfb7e277d602c","growthTime": 10800000},
   {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a85ddc705cb4a640d7a2764","seedIDs":"6900ddfce2a48c502f309999","growthTime": 72000000},
+  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6ab52834593677f68d7f0b49","seedIDs":"6ab282d700c19f4431021f91","growthTime": 22068000},
   
 ];
 
