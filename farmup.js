@@ -22,7 +22,7 @@ const api = axios.create({
 
 
 const plantSeed = [
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e19a8a9faa90b3269d62c","seedIDs":"67dc227a59b878f195998dc4", "growthTime": 1786000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e19a8a9faa90b3269d62c","seedIDs":"673e0c942c7bfd708b35245f", "growthTime": 224000},
 // 'corn'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e199751f2ac78b396fd36","seedIDs":"68824771915623f3dcc1fb0f", "growthTime": 18414000},
 // 'broacli'
@@ -32,7 +32,7 @@ const plantSeed = [
 // 'pineapple'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"697e1985a9faa90b3269c9ca","seedIDs":"67dc227a59b878f195998d82", "growthTime": 19090000},
 // 'mint'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a5fa3d62a9be10b7f52c97d","seedIDs":"673e0c942c7bfd708b35248f", "growthTime": 6720000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a5fa3d62a9be10b7f52c97d","seedIDs":"6ab282d700c19f4431021f97", "growthTime": 25704000},
 // 'chicken'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a15cc2f6a9aeeb3da578ed7","seedIDs":"67dc227a59b878f195998e36", "growthTime": 14640000},
 // 'snowdrops'
@@ -42,7 +42,7 @@ const plantSeed = [
 // 'cauliflower'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a6a2f3865101b3a4db39498","seedIDs":"67dc227a59b878f195998d7c", "growthTime": 19680000},
 // 'eggplant'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a8ede665b50ac4ade227d72","seedIDs":"673e0c942c7bfd708b35243b", "growthTime": 949000},
+{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a8ede665b50ac4ade227d72","seedIDs":"6ab282d700c19f4431021f97", "growthTime": 25704000},
 // 'onion'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a85ddc705cb4a640d7a276b","seedIDs":"69945ab309abeb19e22a83ff", "growthTime": 75600000},
 // 'stawberry'
