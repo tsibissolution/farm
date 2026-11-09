@@ -63,6 +63,7 @@ const plantSeed = [
   {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6ab52d14f441dda81bac3041","seedIDs":"673e0c942c7bfd708b35248f" ,"growthTime": 6250000},
   {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6abe91ff6ae66f61978bbe51","seedIDs":"6a9014f3b52f06fb05edff76" ,"growthTime": 21132000},
   {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a73716cb3297ee787a2d449","seedIDs":"6917389db9b2f4cb8c972df8" ,"growthTime": 16200000},
+  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6aef4ab24aa03d16a65ccd36","seedIDs":"67dc227a59b878f195998d9a" ,"growthTime": 780000},
   
 ];
 
