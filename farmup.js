@@ -44,7 +44,6 @@ const plantSeed = [
 // 'eggplant'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a8ede665b50ac4ade227d72","seedIDs":"6900ddfce2a48c502f30999f", "growthTime": 53568000},
 // 'onion'
-{"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a85ddc705cb4a640d7a276b","seedIDs":"69945ab309abeb19e22a83ff", "growthTime": 75600000},
 // 'stawberry'
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69d9208541889f0f3ae3020e","seedIDs":"69c548076efcfb7e277d602c", "growthTime": 10800000},
 // 'DEER'
@@ -54,16 +53,15 @@ const plantSeed = [
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a1dabde12dd3ee5f734dc85","seedIDs":"67dc227a59b878f195998d58" ,"growthTime": 13800000},
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69f223ff71df3f192c6f28db","seedIDs":"694412e2506616961d8cc890","growthTime": 18000000},
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69500713cc638d10d00cc06b","seedIDs":"694412e2506616961d8cc890","growthTime": 18000000},
-  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a77600b40f8e510bfdc4666","seedIDs":"67dc227a59b878f195998d9a","growthTime": 780000},
-  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a6b914b2a9be10b7fea6972","seedIDs":"673e0c942c7bfd708b352465","growthTime": 240000},
 {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"69ff4d3c71df3f192c8021b6","seedIDs":"69c548076efcfb7e277d602c","growthTime": 10800000},
-  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a85ddc705cb4a640d7a2764","seedIDs":"6900ddfce2a48c502f309999","growthTime": 72000000},
-  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6ab52834593677f68d7f0b49","seedIDs":"67dc227a59b878f195998ddc","growthTime": 900000},
   {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a1dabde12dd3ee5f734dc81","seedIDs":"665f2698534176fcd32f9a7d" ,"growthTime": 1800000},
   {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6ab52d14f441dda81bac3041","seedIDs":"673e0c942c7bfd708b35248f" ,"growthTime": 6250000},
-  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6abe91ff6ae66f61978bbe51","seedIDs":"6a9014f3b52f06fb05edff76" ,"growthTime": 21132000},
   {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6a73716cb3297ee787a2d449","seedIDs":"6917389db9b2f4cb8c972df8" ,"growthTime": 16200000},
   {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6aef4ab24aa03d16a65ccd36","seedIDs":"67dc227a59b878f195998d9a" ,"growthTime": 780000},
+  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6ad7937a69f4d22696551b9b","seedIDs":"673e0c942c7bfd708b352471","growthTime": 240000},
+  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6aea14ab4aa03d16a65e846e","seedIDs":"673e0c942c7bfd708b35243b","growthTime": 1020000},
+  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6af766984aa03d16a6bcf40d","seedIDs":"683dbe2ba9ec974575a4bf3c","growthTime": 15600000},
+  {"userGardensIDs":"68c2eb6a7e204da0fe55f668","userBedsIDs":"6ae4bc834aa03d16a671fc87","seedIDs":"6a997a87146b5c4a5f9c2817","growthTime": 57600000},
   
 ];
 
